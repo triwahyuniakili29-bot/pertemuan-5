@@ -1,0 +1,12 @@
+# Folder data log
+data/
+
+# File log
+*.ndjson
+*.log
+
+# Hasil kompilasi
+target/
+
+# Folder Maven
+apache-maven-3.10.0/
