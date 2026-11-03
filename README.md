@@ -1,10 +1,10 @@
 Praktikum 05 – Java I/O, NIO.2 & Serialisasi
 
-Nama:** Triwahyuni Vanisa Akili
+Nama: Triwahyuni Vanisa Akili
 
-Program Studi:** Sistem Komputer
+Program Studi: Sistem Komputer
 
-Universitas:** Universitas Trinita
+Universitas: Universitas Trinita
 
 Deskripsi Project
 Project ini merupakan praktikum Java menggunakan Java I/O, NIO.2, dan Jackson untuk membuat sistem logging audit.
